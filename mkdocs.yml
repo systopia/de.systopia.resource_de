@@ -1,5 +1,5 @@
 site_name: CiviCRM Resource Management
-repo_url: https://github.com/systopia/de.systopia.resource
+repo_url: https://github.com/systopia/de.systopia.resource_de
 site_description: 'Eine Anleitung für die CiviCRM-Resource-Management-Erweiterung.'
 site_author: 'SYSTOPIA'
 theme:
